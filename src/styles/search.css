@@ -1,0 +1,22 @@
+form{
+    display:flex;
+    flex-direction:row;
+}
+
+
+.searchBox{
+    width:30%;
+    margin: auto;
+    position:relative;
+    margin-top:4rem;
+    height:50%;
+    border-radius:11px;
+    font-size:20px;
+    padding:0 10px;
+}
+
+.button{
+    height:20px;
+    width:15px;
+    border: 3px solid rgb(71, 71, 92);
+}

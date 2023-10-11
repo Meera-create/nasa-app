@@ -1,0 +1,13 @@
+.App{
+    display:flex;
+    flex-direction:column;
+}
+
+.nasa{
+    height:350px;
+    width:500px;
+    display:block;
+    position:relative;
+    margin:auto;
+    top:2rem;
+}

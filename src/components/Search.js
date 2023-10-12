@@ -2,12 +2,12 @@ import React,{ useState }  from 'react';
 import '../styles/search.css'
 import getImages from '../requests/getImages';
 
-const Search=()=>{
+const Search=({setSearchResults})=>{
 const[value,setValue]=useState();
 
-const handleSubmit=(event)=>{
+const handleSubmit=async(event)=>{
     event.preventDefault();
-    getImages(value);
+    setSearchResults(await getImages(value));
 };
 
 
@@ -16,7 +16,6 @@ const handleSubmit=(event)=>{
         <div className="search">
         <form className="form" onSubmit={handleSubmit}>
         <input className="searchBox" type="text" onChange={(e)=> setValue(e.target.value)}/>
-
         <button className="button" type="submit">SEARCH</button>
         </form>
         </div>

@@ -1,4 +1,46 @@
-# Getting Started with Create React App
+
+Title of Technical Test: Nasa App
+
+For this technical task, I had to build a React App that allows someone to search for images, where an API endpoint was given , with all the images provided.
+
+Screenshots:
+
+
+Information about the App:
+The app was built with React.
+The testing utilities used were Jest and the React Testing Library.
+Packages used were Axios.
+
+Instructions for Use:
+
+Run npm install  -  once the app is cloned.
+Run npm start - to render the app in the browser.
+Once rendered, you can search for images in the search box. Images should be displayed underneath.
+
+
+Additions I would want to make:
+
+
+
+Authors name:
+Mirunaalini ALagarajah
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +109,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->

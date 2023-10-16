@@ -19,7 +19,7 @@ Once rendered, you can search for images in the search box. Images should be dis
 
 
 Additions I would want to make:
-
+I would like to display more information if the user clicked or hovered on the image for example, where it was taken or a description of what it is.
 
 
 Authors name:

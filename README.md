@@ -1,10 +1,13 @@
-
 Title of Technical Test: Nasa App
 
 For this technical task, I had to build a React App that allows someone to search for images, where an API endpoint was given , with all the images provided.
 
 Screenshots:
+DESKTOP SIZE
+<img src="../tech-test/src/styles/desktop.png" alt="screenshot in desktop size">
 
+MOBILE SCREEN SIZE
+<img src="../tech-test/src/styles/mobile.png" alt="screenshot in mobile size ">
 
 Information about the App:
 The app was built with React.
@@ -13,32 +16,15 @@ Packages used were Axios.
 
 Instructions for Use:
 
-Run npm install  -  once the app is cloned.
+Run npm install - once the app is cloned.
 Run npm start - to render the app in the browser.
 Once rendered, you can search for images in the search box. Images should be displayed underneath.
-
 
 Additions I would want to make:
 I would like to display more information if the user clicked or hovered on the image for example, where it was taken or a description of what it is.
 
-
 Authors name:
 Mirunaalini ALagarajah
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- # Getting Started with Create React App
 

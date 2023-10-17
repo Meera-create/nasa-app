@@ -4,10 +4,11 @@ For this technical task, I had to build a React App that allows someone to searc
 
 Screenshots:
 DESKTOP SIZE
-<img src="../tech-test/src/styles/desktop.png" alt="screenshot in desktop size">
+![image](https://github.com/Meera-create/nasa-app/assets/126895130/1084e50e-7953-41f5-ada5-2d24b2ca6a82)
+
 
 MOBILE SCREEN SIZE
-<img src="../tech-test/src/styles/mobile.png" alt="screenshot in mobile size ">
+![image](https://github.com/Meera-create/nasa-app/assets/126895130/eed5db7a-c3f9-4c9e-8038-2fde4525e36b)
 
 Information about the App:
 The app was built with React.
